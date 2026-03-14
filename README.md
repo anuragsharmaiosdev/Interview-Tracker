@@ -4,7 +4,7 @@ A lightweight app to help track job interviews, manage progress, and keep everyt
 
 ## Preview
 
-![App Screenshot](app.png)
+![App Screenshot](App.png)
 
 ## Features
 - Track upcoming and past interviews
